@@ -1,0 +1,11 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/master.master" AutoEventWireup="true" %>
+	
+	
+<asp:Content ContentPlaceHolderId="contentBody" runat="server">
+	<!-- Insert "contentBody" markup here -->
+	<h3><umbraco:Item field="headerText" runat="server" /></h3>
+	
+	
+	<umbraco:Item field="bodyText" runat="server" />
+	
+</asp:Content>

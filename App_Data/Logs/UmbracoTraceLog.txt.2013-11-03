@@ -1,0 +1,804 @@
+2013-11-03 00:01:54,081 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 203] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:06:54,089 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 211] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:11:54,097 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 156] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:16:54,106 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 191] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:21:54,114 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 49] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:26:54,122 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 120] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:31:54,130 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 162] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:36:54,138 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 249] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:41:54,146 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 138] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:46:54,154 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 111] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:51:54,163 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 56] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 00:56:54,171 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 177] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:01:54,179 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 56] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:06:54,187 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 175] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:11:54,195 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 203] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:16:54,203 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 27] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:21:54,211 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 69] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:26:54,220 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 69] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:31:54,228 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 220] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:36:54,236 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 89] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:41:54,244 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 71] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:46:54,252 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 161] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:51:54,260 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 70] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 01:56:54,268 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 122] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:01:54,277 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 217] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:06:54,285 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 240] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:11:54,293 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 60] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:16:54,301 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 168] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:21:54,309 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 145] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:26:54,317 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 102] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:31:54,325 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 69] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:36:54,334 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 213] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:41:54,342 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 186] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:46:54,350 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 12] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:49:37,738 [143] ERROR umbraco.DataLayer.SqlHelper`1[[System.Data.SqlClient.SqlParameter, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]] - [Thread 133] Error executing query select distinct nodeId, level, sortOrder from cmsDocument inner join umbracoNode on umbracoNode.id = cmsDocument.nodeId where newest = 1 and not releaseDate is null and releaseDate <= @today order by [level], sortOrder
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at umbraco.DataLayer.SqlHelpers.SqlServer.SqlServerHelper.ExecuteReader(String commandText, SqlParameter[] parameters)
+   at umbraco.DataLayer.SqlHelper`1.ExecuteReader(String commandText, IParameter[] parameters)
+ClientConnectionId:97318c89-b626-40f5-9cbe-163c4c354b71
+2013-11-03 02:51:54,358 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 117] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 02:56:54,366 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 23] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:01:54,374 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 222] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:06:54,382 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 89] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:11:54,391 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 42] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:16:54,414 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 32] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:21:54,422 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 131] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:26:54,431 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 216] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:31:54,439 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 69] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:36:54,447 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 94] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:41:54,455 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 197] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:46:54,463 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 196] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:51:54,471 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 54] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 03:56:54,479 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 154] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:01:54,488 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 144] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:06:54,496 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 232] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:11:54,504 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 104] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:16:54,512 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 185] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:21:54,520 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 18] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:26:54,528 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 39] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:31:54,536 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 222] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:36:54,545 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 273] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:41:54,553 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 109] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:46:54,561 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 130] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:51:54,569 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 121] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 04:56:54,577 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 137] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:01:54,585 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 180] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:06:54,593 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 202] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:11:54,602 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 218] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:16:54,610 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 6] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:21:54,618 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 157] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:26:54,626 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 218] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:31:54,634 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 240] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:36:54,642 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 94] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:41:54,650 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 142] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:46:54,659 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 230] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:51:54,667 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 175] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 05:56:54,675 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 284] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:01:54,683 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 112] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:06:54,707 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 171] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:11:54,699 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 125] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:16:54,707 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 35] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:21:54,716 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 124] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:26:54,724 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 164] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:31:54,732 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 150] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:36:54,740 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 8] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:41:54,748 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 225] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:46:54,756 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 209] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:51:54,764 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 66] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 06:56:54,773 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 185] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:01:54,781 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 131] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:06:54,804 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 23] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:11:54,797 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 48] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:16:54,805 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 11] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:21:54,829 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 89] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:26:54,821 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 213] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:31:54,830 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 279] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:36:54,838 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 243] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:41:54,861 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 43] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:46:54,854 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 12] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:51:54,862 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 25] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 07:56:54,870 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 176] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:01:54,878 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 220] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:06:54,887 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 249] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:11:54,895 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 138] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:16:54,903 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 51] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:21:54,927 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 278] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:26:54,919 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 104] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:31:54,927 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 230] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:36:54,935 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 109] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:41:54,944 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 32] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:46:54,952 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 62] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:51:54,960 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 240] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 08:56:54,968 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 163] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:01:54,976 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 236] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:06:54,984 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 162] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:11:54,992 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 296] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:16:55,000 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 278] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:21:55,009 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 208] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:26:55,017 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 273] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:31:55,025 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 183] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:36:55,033 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 168] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:41:55,041 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 236] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:46:55,049 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 188] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:51:55,057 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 97] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 09:56:55,066 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 29] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:01:55,074 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 124] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:06:55,082 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 177] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:07:48,774 [143] ERROR umbraco.DataLayer.SqlHelper`1[[System.Data.SqlClient.SqlParameter, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]] - [Thread 274] Error executing query select distinct nodeId, level, sortOrder from cmsDocument inner join umbracoNode on umbracoNode.id = cmsDocument.nodeId where newest = 1 and not releaseDate is null and releaseDate <= @today order by [level], sortOrder
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at umbraco.DataLayer.SqlHelpers.SqlServer.SqlServerHelper.ExecuteReader(String commandText, SqlParameter[] parameters)
+   at umbraco.DataLayer.SqlHelper`1.ExecuteReader(String commandText, IParameter[] parameters)
+ClientConnectionId:190b5750-4ee5-4925-a02d-8f5b377a9e04
+2013-11-03 10:11:55,090 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 222] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:16:55,098 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 166] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:21:55,106 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 15] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:26:55,114 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 202] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:31:55,123 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 163] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:36:55,131 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 206] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:41:55,139 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 69] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:46:55,178 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 209] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:51:55,155 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 240] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 10:56:55,163 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 22] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:01:55,171 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 93] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:06:55,180 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 21] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:11:55,188 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 173] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:16:55,196 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 177] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:21:55,204 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 29] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:26:55,212 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 22] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:31:55,220 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 144] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:36:55,228 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 63] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:41:55,237 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 8] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:46:55,245 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 125] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:51:55,253 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 109] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 11:56:55,261 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 202] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:01:55,269 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 240] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:06:55,293 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 111] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:11:55,285 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 12] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:16:55,294 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 68] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:21:55,302 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 226] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:26:55,310 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 273] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:31:55,318 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 270] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()
+2013-11-03 12:36:55,326 [143] ERROR Umbraco.Web.UmbracoApplication - [Thread 202] An unhandled exception occurred
+System.PlatformNotSupportedException: This operation requires IIS integrated pipeline mode.
+   at System.Web.HttpResponse.get_Headers()
+   at Umbraco.Web.UmbracoModule.<Init>b__a(Object sender, EventArgs args)
+   at System.Web.HttpApplication.RaiseOnPreSendRequestHeaders()

@@ -1,0 +1,133 @@
+div#footer{
+	border-top:10px solid #005b99; color: #5d5d5d; background-color: #000;	
+}
+
+.text-center{text-align:left;}
+
+.btn-info{background:#5d5d5d;}
+.btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .btn-info.disabled, .btn-info[disabled]
+{background:#ddd;}
+
+
+
+.accordion
+{
+	margin-top:20px;
+	margin-left: -20px;
+}
+
+
+.accordion-heading
+{
+	background:#999;
+}
+
+.accordion-heading a
+{
+	color:#fff;
+	background:#999 url("/images/download-arrow.png") ;
+	background-repeat: no-repeat;
+	background-position: right center;
+	margin-right:10px;
+	
+}
+
+.accordion-heading .accordion-toggle
+{
+	padding:8px 15px;
+}
+
+/* header area */
+.navbar-inner{ background:#3cb9b7 url('/images/yetamzLogo.png');
+	background-repeat:no-repeat;
+	border-bottom:10px solid #005b99;
+	color:#fff;}
+
+.navbar .brand{color:#fff; text-shadow:none;}
+
+.navbar .nav li a
+{
+	text-shadow:none; color:#ccc;
+}
+
+
+/* Left Navigation area */
+.nav-list li{background:#5d5d5d; border-top:1px solid #ccc; list-style-type:square;}
+
+.nav-list li a{color: #ddd; margin-right:0px; margin-left: 0px;}
+
+.nav-list li a:hover{color: #5d5d5d;}
+
+.nav-list .nav-header{ margin-right:0px; margin-left: 0px; color: #eee}
+
+div.well{ background: #e0e1dd;}
+
+div.accordion-inner li {padding: 5px 5px 5px 15px;}
+
+
+
+.nav-list div.accordion-inner li:hover {background: #ddd;}
+
+
+div.form_field input, textarea{ background-color: #eee;}		
+
+#cultivcontactformsubmit{
+	border:1px solid #ddd; padding:15px 35px; margin:10px 0 0 105px;
+	
+	background:#e0e1dd; color:#005b99;}
+		
+#cultivcontactformsubmit:hover{color:#fff; background-color:#005d99;}
+
+small{ display:block;}
+
+
+#sendcopy{display:inline;}
+
+div#contact_form { margin-bottom:25px; border:1px solid #ddd; border-radius:8px; background-color: #f6f6f6; padding:25px;}
+
+div#contact_form label{display: inline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

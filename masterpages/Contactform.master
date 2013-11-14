@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/master.master" AutoEventWireup="true" %>
+
+
+<asp:Content ContentPlaceHolderId="contentBody" runat="server">
+	<!-- Insert "contentBody" markup here -->
+	
+	
+	<h3><umbraco:Item field="headerText" runat="server" /> </h3> 
+	
+	<div class="main_content">
+		<umbraco:Item field="bodyText" runat="server" />
+		<br />
+		
+		<div id="contact_form">
+		<umbraco:Macro FileLocation="~/macroScripts/CultivContactForm.cshtml"            
+		MailFrom="info@yetamz.com" FormSentConfirmation="Thank you. You message has been sent sucessfully." runat="server" />
+			
+		</div>
+		
+		
+	
+	</div>
+
+</asp:Content>

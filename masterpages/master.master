@@ -1,0 +1,129 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+ 
+	<link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="/css/bootstrap-responsive.css" type="text/css" />
+	<link rel="stylesheet" href="/css/style.css" type="text/css" />
+
+	
+ 
+
+</head>
+ 
+<body>
+	<div class="container">
+		
+		
+	<div class="navbar">
+    <div class="navbar-inner">
+        <div class="container">
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-th-list"></span></a>
+			<a href="/" class="brand"></a>
+        <div class="nav-collapse collapse">
+			<ul class="nav pull-right">
+				<li class="active"><a href="/">Home</a></li>
+				<li><a href="/about-us.aspx">About Us</a></li>
+				<li><a href="/contact-us.aspx">Contact Us</a></li>
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+		
+
+	
+		<div class="carousel slide" id="my-carousel">
+
+
+	<div class="big-banner">
+
+		
+		      <div class="item">
+					<img class="img-rounded" src="/images/buildingcd2.jpg" />
+				</div>
+				
+	</div>
+			
+	
+		
+		
+		
+   <!-- <h1>Marketing stuff!</h1>
+ 
+    <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+ 
+    <a href="#" class="btn btn-large btn-success">Get Started</a> -->
+		
+		
+		
+ 	</div>
+		
+<div class="container">
+		
+<div class="row-fluid">
+	
+    <div class="span4 well">
+     <umbraco:Macro Alias="Navigation" runat="server" />
+	
+
+
+ </div>
+	
+   <div class="span8">
+		
+	
+<asp:ContentPlaceHolder Id="contentBody" runat="server">
+	<!-- Insert default "contentBody" markup here -->
+</asp:ContentPlaceHolder>
+
+            
+   </div>
+ </div>
+	
+</div>
+		
+<div id="footer" class="row">
+<div class="span4">
+      
+       <small class="disabled">&copy; Yetamz Engineers Bureau, 2013 </small>
+		<small>All rights reserved</small>
+       
+    </div>
+    <div class="span4">
+        <h4 class="muted text-center">Know Our Employees</h4>
+        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+       
+    </div>
+    <div class="span4">
+        <h4 class="muted text-center">Reach Us</h4>
+        <address>
+		    10 Stonehouse Lane<br />
+			Dartford<br />
+			Kent &nbsp; UK<br />
+			DA2 6FD<br />
+			<i class="icon-headphones white"></i>  44 (0)1322 634789<br /> 
+            <i class="icon-envelope white"></i> info@yetamz.com
+		</address>
+        
+    </div>
+</div>
+		
+</div>
+	
+	<script src="/scripts/jquery-1.10.2.min.js" ></script>
+	<script src="/scripts/bootstrap.min.js" ></script>
+	
+</body>
+</html>
+
+
+</asp:Content>
